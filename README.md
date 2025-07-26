@@ -41,6 +41,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
  -[Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-[1. Biswas S, Mita MA, Afrose S, Hasan MR, **Islam MT**, Rahman MA, Ara MJ, Chowdhury MB, Meem HN, Mamunuzzaman M, Ahammad T. 
+1. Biswas S, Mita MA, Afrose S, Hasan MR, **Islam MT**, Rahman MA, Ara MJ, Chowdhury MB, Meem HN, Mamunuzzaman M, Ahammad T. 
 Integrated computational approaches for inhibiting sex hormone-binding globulin in male infertility by screening potent phytochemicals. 
-Life. 2023 Feb 9;13(2):476.](https://www.mdpi.com/2075-1729/13/2/476)
+Life. 2023 Feb 9;13(2):476. [paper](https://www.mdpi.com/2075-1729/13/2/476)
