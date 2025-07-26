@@ -4,7 +4,7 @@
 
 ## Education							       		
 - B.Sc., Genetic Engineering and Biotechnology	| University of Rajshahi, Bangladesh (2025)	 			        		
-- HSC , Science | Birshreshtha Munshi Abdur Rouf Public College, Bangladesh (2019)
+- HSC, Science | Birshreshtha Munshi Abdur Rouf Public College, Bangladesh (2019)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
